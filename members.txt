@@ -1,0 +1,8 @@
+m1,Sampat,sam@gmail.com,
+m2,Aryan,ap@gmail.com,
+m3,Krishna,kris@gmail.com,
+m4,Bridge,bridge@gmail.com,
+m5,Amit ,amit@gmail.com,
+m6,Ashok,ashok@gmail.com,
+m7,Daljin,daljin@gmail.com,
+m8,Lasya,lasya@gmail.com,

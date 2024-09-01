@@ -1,0 +1,200 @@
+b2,To Kill a Mockingbird,Harper Lee,Classic,False,19
+b3,1984,George Orwell,Dystopian,False,19
+b4,Pride and Prejudice,Jane Austen,Classic,False,15
+b5,The Great Gatsby,F. Scott Fitzgerald,Classic,False,5
+b6,Moby-Dick,Herman Melville,Adventure,False,15
+b7,War and Peace,Leo Tolstoy,Historical Fiction,False,9
+b8,Crime and Punishment,Fyodor Dostoevsky,Classic,False,19
+b9,The Catcher in the Rye,J.D. Salinger,Classic,False,15
+b10,The Lord of the Rings,J.R.R. Tolkien,Fantasy,False,18
+b11,The Hobbit,J.R.R. Tolkien,Fantasy,False,13
+b12,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,False,4
+b13,Fahrenheit 451,Ray Bradbury,Dystopian,False,17
+b14,Jane Eyre,Charlotte Bronte,Classic,False,11
+b15,Wuthering Heights,Emily Bronte,Classic,False,6
+b16,Brave New World,Aldous Huxley,Dystopian,False,12
+b17,The Lion the Witch and the Wardrobe,C.S. Lewis,Fantasy,False,19
+b18,Animal Farm,George Orwell,Dystopian,False,10
+b19,The Chronicles of Narnia,C.S. Lewis,Fantasy,False,7
+b20,Little Women,Louisa May Alcott,Classic,False,4
+b21,The Alchemist,Paulo Coelho,Fiction,False,13
+b22,The Grapes of Wrath,John Steinbeck,Classic,False,19
+b23,Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,False,5
+b24,Catch-22,Joseph Heller,Satire,False,3
+b25,The Hitchhiker's Guide to the Galaxy,Douglas Adams,Science Fiction,False,4
+b26,The Odyssey,Homer,Classic,False,5
+b27,The Iliad,Homer,Classic,False,8
+b28,The Count of Monte Cristo,Alexandre Dumas,Adventure,False,10
+b29,Dracula,Bram Stoker,Horror,False,15
+b30,Frankenstein,Mary Shelley,Horror,False,19
+b31,Don Quixote,Miguel de Cervantes,Classic,False,10
+b32,A Tale of Two Cities,Charles Dickens,Classic,False,20
+b33,Great Expectations,Charles Dickens,Classic,False,17
+b34,Les Misérables,Victor Hugo,Classic,False,7
+b35,Gone with the Wind,Margaret Mitchell,Historical Fiction,False,7
+b36,The Picture of Dorian Gray,Oscar Wilde,Classic,False,4
+b37,The Brothers Karamazov,Fyodor Dostoevsky,Classic,False,2
+b38,Madame Bovary,Gustave Flaubert,Classic,False,5
+b39,The Old Man and the Sea,Ernest Hemingway,Classic,False,8
+b40,The Sun Also Rises,Ernest Hemingway,Classic,False,7
+b41,A Farewell to Arms,Ernest Hemingway,Classic,False,16
+b42,The Catcher in the Rye,J.D. Salinger,Classic,False,3
+b43,On the Road,Jack Kerouac,Classic,False,12
+b44,The Road,Cormac McCarthy,Dystopian,False,5
+b45,Blood Meridian,Cormac McCarthy,Western,False,19
+b46,The Stand,Stephen King,Horror,False,7
+b47,It,Stephen King,Horror,False,13
+b48,The Shining,Stephen King,Horror,False,8
+b49,The Dark Tower,Stephen King,Fantasy,False,8
+b50,American Gods,Neil Gaiman,Fantasy,False,15
+b51,Good Omens,Neil Gaiman,Fantasy,False,16
+b52,Neverwhere,Neil Gaiman,Fantasy,False,8
+b53,Coraline,Neil Gaiman,Fantasy,False,2
+b54,The Handmaid's Tale,Margaret Atwood,Dystopian,False,16
+b55,Oryx and Crake,Margaret Atwood,Dystopian,False,4
+b56,The Blind Assassin,Margaret Atwood,Historical Fiction,False,8
+b57,The Testaments,Margaret Atwood,Dystopian,False,14
+b58,Dune,Frank Herbert,Science Fiction,False,5
+b59,Foundation,Isaac Asimov,Science Fiction,False,17
+b60,Neuromancer,William Gibson,Science Fiction,False,17
+b61,Snow Crash,Neal Stephenson,Science Fiction,False,8
+b62,Hyperion,Dan Simmons,Science Fiction,False,14
+b63,The Left Hand of Darkness,Ursula K. Le Guin,Science Fiction,False,9
+b64,The Dispossessed,Ursula K. Le Guin,Science Fiction,False,8
+b65,A Wizard of Earthsea,Ursula K. Le Guin,Fantasy,False,16
+b66,The Name of the Wind,Patrick Rothfuss,Fantasy,False,8
+b67,The Wise Man's Fear,Patrick Rothfuss,Fantasy,False,20
+b68,Mistborn: The Final Empire,Brandon Sanderson,Fantasy,False,15
+b69,The Way of Kings,Brandon Sanderson,Fantasy,False,4
+b70,Elantris,Brandon Sanderson,Fantasy,False,5
+b71,The Final Empire,Brandon Sanderson,Fantasy,False,9
+b72,The Hero of Ages,Brandon Sanderson,Fantasy,False,3
+b73,The Well of Ascension,Brandon Sanderson,Fantasy,False,13
+b74,The Rithmatist,Brandon Sanderson,Fantasy,False,5
+b75,Steelheart,Brandon Sanderson,Fantasy,False,13
+b76,Firefight,Brandon Sanderson,Fantasy,False,9
+b77,Calamity,Brandon Sanderson,Fantasy,False,11
+b78,The Alloy of Law,Brandon Sanderson,Fantasy,False,1
+b79,Shadows of Self,Brandon Sanderson,Fantasy,False,17
+b80,Bands of Mourning,Brandon Sanderson,Fantasy,False,10
+b81,Warbreaker,Brandon Sanderson,Fantasy,False,11
+b82,The Way of Kings,Brandon Sanderson,Fantasy,False,12
+b83,Words of Radiance,Brandon Sanderson,Fantasy,False,4
+b84,Oathbringer,Brandon Sanderson,Fantasy,False,15
+b85,Rhythm of War,Brandon Sanderson,Fantasy,False,6
+b86,The Gunslinger,Stephen King,Fantasy,False,2
+b87,The Drawing of the Three,Stephen King,Fantasy,False,14
+b88,The Waste Lands,Stephen King,Fantasy,False,13
+b89,Wolves of the Calla,Stephen King,Fantasy,False,10
+b90,Song of Susannah,Stephen King,Fantasy,False,6
+b91,The Dark Tower,Stephen King,Fantasy,False,8
+b92,Wizard and Glass,Stephen King,Fantasy,False,8
+b93,The Wind Through the Keyhole,Stephen King,Fantasy,False,4
+b94,The Gunslinger,Stephen King,Fantasy,False,1
+b95,The Drawing of the Three,Stephen King,Fantasy,False,6
+b96,The Waste Lands,Stephen King,Fantasy,False,3
+b97,Wolves of the Calla,Stephen King,Fantasy,False,12
+b98,Song of Susannah,Stephen King,Fantasy,False,7
+b99,The Dark Tower,Stephen King,Fantasy,False,2
+b100,Wizard and Glass,Stephen King,Fantasy,False,17
+b101,The Wind Through the Keyhole,Stephen King,Fantasy,False,2
+b102,Ender's Game,Orson Scott Card,Science Fiction,False,4
+b103,Speaker for the Dead,Orson Scott Card,Science Fiction,False,4
+b104,Xenocide,Orson Scott Card,Science Fiction,False,13
+b105,Children of the Mind,Orson Scott Card,Science Fiction,False,1
+b106,Ender's Shadow,Orson Scott Card,Science Fiction,False,14
+b107,Shadow of the Hegemon,Orson Scott Card,Science Fiction,False,14
+b108,Shadow Puppets,Orson Scott Card,Science Fiction,False,14
+b109,Shadow of the Giant,Orson Scott Card,Science Fiction,False,4
+b110,Shadows in Flight,Orson Scott Card,Science Fiction,False,16
+b111,The Hunger Games,Suzanne Collins,Dystopian,False,15
+b112,Catching Fire,Suzanne Collins,Dystopian,False,10
+b113,Mockingjay,Suzanne Collins,Dystopian,False,8
+b114,Divergent,Veronica Roth,Dystopian,False,8
+b115,Insurgent,Veronica Roth,Dystopian,False,15
+b116,Allegiant,Veronica Roth,Dystopian,False,12
+b117,Fable,Adrienne Young,Fantasy,False,6
+b118,Namesake,Adrienne Young,Fantasy,False,20
+b119,Sky in the Deep,Adrienne Young,Fantasy,False,6
+b120,The Girl the Sea Gave Back,Adrienne Young,Fantasy,False,4
+b121,Fable,Adrienne Young,Fantasy,False,11
+b122,Namesake,Adrienne Young,Fantasy,False,3
+b123,Sky in the Deep,Adrienne Young,Fantasy,False,4
+b124,The Girl the Sea Gave Back,Adrienne Young,Fantasy,False,4
+b125,A Court of Thorns and Roses,Sarah J. Maas,Fantasy,False,7
+b126,A Court of Mist and Fury,Sarah J. Maas,Fantasy,False,15
+b127,A Court of Wings and Ruin,Sarah J. Maas,Fantasy,False,9
+b128,A Court of Frost and Starlight,Sarah J. Maas,Fantasy,False,12
+b129,A Court of Silver Flames,Sarah J. Maas,Fantasy,False,13
+b130,Throne of Glass,Sarah J. Maas,Fantasy,False,4
+b131,Crown of Midnight,Sarah J. Maas,Fantasy,False,17
+b132,Heir of Fire,Sarah J. Maas,Fantasy,False,1
+b133,Queen of Shadows,Sarah J. Maas,Fantasy,False,1
+b134,Empire of Storms,Sarah J. Maas,Fantasy,False,11
+b135,Tower of Dawn,Sarah J. Maas,Fantasy,False,9
+b136,Kingdom of Ash,Sarah J. Maas,Fantasy,False,9
+b137,The Assassin's Blade,Sarah J. Maas,Fantasy,False,18
+b138,House of Earth and Blood,Sarah J. Maas,Fantasy,False,20
+b139,House of Sky and Breath,Sarah J. Maas,Fantasy,False,2
+b140,A Song of Ice and Fire,George R.R. Martin,Fantasy,False,15
+b141,A Game of Thrones,George R.R. Martin,Fantasy,False,11
+b142,A Clash of Kings,George R.R. Martin,Fantasy,False,12
+b143,A Storm of Swords,George R.R. Martin,Fantasy,False,4
+b144,A Feast for Crows,George R.R. Martin,Fantasy,False,19
+b145,A Dance with Dragons,George R.R. Martin,Fantasy,False,11
+b146,The Winds of Winter,George R.R. Martin,Fantasy,False,19
+b147,A Dream of Spring,George R.R. Martin,Fantasy,False,14
+b148,The World of Ice & Fire,George R.R. Martin,Fantasy,False,16
+b149,Fire & Blood,George R.R. Martin,Fantasy,False,7
+b150,Roadside Picnic,Arkady and Boris Strugatsky,Science Fiction,False,7
+b151,Metro 2033,Dmitry Glukhovsky,Dystopian,False,5
+b152,Metro 2034,Dmitry Glukhovsky,Dystopian,False,20
+b153,Metro 2035,Dmitry Glukhovsky,Dystopian,False,9
+b154,The Road,Cormac McCarthy,Dystopian,False,13
+b155,Station Eleven,Emily St. John Mandel,Dystopian,False,10
+b156,The Book of M,Peng Shepherd,Dystopian,False,15
+b157,The Water Knife,Paolo Bacigalupi,Dystopian,False,11
+b158,The Drowned Cities,Paolo Bacigalupi,Dystopian,False,4
+b159,Ship Breaker,Paolo Bacigalupi,Dystopian,False,3
+b160,The Windup Girl,Paolo Bacigalupi,Dystopian,False,7
+b161,The Children of Men,P.D. James,Dystopian,False,5
+b162,Blindness,José Saramago,Dystopian,False,6
+b163,The Giver,Lois Lowry,Dystopian,False,20
+b164,Gathering Blue,Lois Lowry,Dystopian,False,17
+b165,Messenger,Lois Lowry,Dystopian,False,4
+b166,Son,Lois Lowry,Dystopian,False,8
+b167,The Maze Runner,James Dashner,Dystopian,False,8
+b168,The Scorch Trials,James Dashner,Dystopian,False,16
+b169,The Death Cure,James Dashner,Dystopian,False,19
+b170,The Kill Order,James Dashner,Dystopian,False,3
+b171,The Fever Code,James Dashner,Dystopian,False,7
+b172,The 5th Wave,Rick Yancey,Dystopian,False,15
+b173,The Infinite Sea,Rick Yancey,Dystopian,False,17
+b174,The Last Star,Rick Yancey,Dystopian,False,1
+b175,The Martian,Andy Weir,Science Fiction,False,10
+b176,Artemis,Andy Weir,Science Fiction,False,15
+b177,Project Hail Mary,Andy Weir,Science Fiction,False,8
+b178,Ready Player One,Ernest Cline,Science Fiction,False,13
+b179,Ready Player Two,Ernest Cline,Science Fiction,False,15
+b180,Armada,Ernest Cline,Science Fiction,False,10
+b181,Altered Carbon,Richard K. Morgan,Science Fiction,False,11
+b182,Broken Angels,Richard K. Morgan,Science Fiction,False,9
+b183,Woken Furies,Richard K. Morgan,Science Fiction,False,14
+b184,Do Androids Dream of Electric Sheep?,Philip K. Dick,Science Fiction,False,1
+b185,The Man in the High Castle,Philip K. Dick,Science Fiction,False,7
+b186,Ubik,Philip K. Dick,Science Fiction,False,12
+b187,A Scanner Darkly,Philip K. Dick,Science Fiction,False,12
+b188,Flow My Tears the Policeman Said,Philip K. Dick,Science Fiction,False,13
+b189,The Three-Body Problem,Liu Cixin,Science Fiction,False,9
+b190,The Dark Forest,Liu Cixin,Science Fiction,False,7
+b191,Death's End,Liu Cixin,Science Fiction,False,17
+b192,The Wandering Earth,Liu Cixin,Science Fiction,False,20
+b193,Ball Lightning,Liu Cixin,Science Fiction,False,2
+b194,The Invisible Library,Genevieve Cogman,Fantasy,False,20
+b195,The Masked City,Genevieve Cogman,Fantasy,False,11
+b196,The Burning Page,Genevieve Cogman,Fantasy,False,17
+b197,The Lost Plot,Genevieve Cogman,Fantasy,False,12
+b198,The Mortal Word,Genevieve Cogman,Fantasy,False,8
+b199,The Secret Chapter,Genevieve Cogman,Fantasy,False,12
+b200,The Dark Archive,Genevieve Cogman,Fantasy,False,19
+b1,Brief History of Time,Stephn Hawking,Science Fiction,False,3
